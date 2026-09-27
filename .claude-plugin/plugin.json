@@ -1,0 +1,21 @@
+{
+  "name": "image-proof",
+  "displayName": "Image Proof",
+  "version": "0.1.0",
+  "description": "Find and fix product image problems in your Shopify store: missing images, wrong variant photos, broken description images after data imports, missing alt text and low-resolution photos.",
+  "author": {
+    "name": "Andrew Romanchenko",
+    "url": "https://github.com/mssdef"
+  },
+  "homepage": "https://github.com/mssdef/image-proof",
+  "license": "MIT",
+  "keywords": [
+    "shopify",
+    "product images",
+    "alt text",
+    "variants",
+    "ecommerce",
+    "catalog audit"
+  ],
+  "repository": "https://github.com/mssdef/image-proof"
+}
