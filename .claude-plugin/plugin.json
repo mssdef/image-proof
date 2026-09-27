@@ -18,7 +18,5 @@
     "catalog audit"
   ],
   "repository": "https://github.com/mssdef/image-proof",
-  "documentationUrl": "https://github.com/mssdef/image-proof#readme",
-  "privacyPolicyUrl": "https://github.com/mssdef/image-proof#data-and-privacy",
-  "supportUrl": "https://github.com/mssdef/image-proof/issues"
+  "privacyPolicyUrl": "https://github.com/mssdef/image-proof#data-and-privacy"
 }
